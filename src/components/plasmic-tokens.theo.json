@@ -1,0 +1,59 @@
+{
+  "props": [
+    {
+      "name": "Palette1",
+      "type": "color",
+      "value": "#365194",
+      "category": "color",
+      "meta": {
+        "projectId": "jvgKmcyqVhg6pkonUhiUTk",
+        "id": "7zrrv32HL"
+      }
+    },
+    {
+      "name": "Palette2",
+      "type": "color",
+      "value": "#e2dadb",
+      "category": "color",
+      "meta": {
+        "projectId": "jvgKmcyqVhg6pkonUhiUTk",
+        "id": "JYodF0srv"
+      }
+    },
+    {
+      "name": "Palette3",
+      "type": "color",
+      "value": "#78CAD2",
+      "category": "color",
+      "meta": {
+        "projectId": "jvgKmcyqVhg6pkonUhiUTk",
+        "id": "upKDgqHRA"
+      }
+    },
+    {
+      "name": "Palette4",
+      "type": "color",
+      "value": "#62a8ac",
+      "category": "color",
+      "meta": {
+        "projectId": "jvgKmcyqVhg6pkonUhiUTk",
+        "id": "y-DODv5NW"
+      }
+    },
+    {
+      "name": "Palette5",
+      "type": "color",
+      "value": "#06070e",
+      "category": "color",
+      "meta": {
+        "projectId": "jvgKmcyqVhg6pkonUhiUTk",
+        "id": "JrOGeHG_n"
+      }
+    }
+  ],
+  "global": {
+    "meta": {
+      "source": "plasmic.app"
+    }
+  }
+}

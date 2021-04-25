@@ -22,22 +22,61 @@
   "projects": [
     {
       "projectId": "jvgKmcyqVhg6pkonUhiUTk",
-      "projectName": "Blank project",
+      "projectName": "mm_ai",
       "version": "latest",
       "cssFilePath": "plasmic/blank_project/plasmic_blank_project.module.css",
       "components": [
         {
           "id": "jaTCIGBsXCTU",
-          "name": "Homepage",
+          "name": "Contacts",
           "type": "managed",
           "projectId": "jvgKmcyqVhg6pkonUhiUTk",
-          "renderModuleFilePath": "plasmic/blank_project/PlasmicHomepage.tsx",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicContacts.tsx",
           "importSpec": {
             "modulePath": "../pages/index.tsx"
           },
-          "cssFilePath": "plasmic/blank_project/PlasmicHomepage.module.css",
+          "cssFilePath": "plasmic/blank_project/PlasmicContacts.module.css",
           "scheme": "blackbox",
           "componentType": "page"
+        },
+        {
+          "id": "UBVooxeTK-",
+          "name": "SidePanel",
+          "type": "managed",
+          "projectId": "jvgKmcyqVhg6pkonUhiUTk",
+          "renderModuleFilePath": "plasmic/mm_ai/PlasmicSidePanel.tsx",
+          "importSpec": {
+            "modulePath": "SidePanel.tsx"
+          },
+          "cssFilePath": "plasmic/mm_ai/PlasmicSidePanel.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "VhUkRHIsl_",
+          "name": "SidePanelItem",
+          "type": "managed",
+          "projectId": "jvgKmcyqVhg6pkonUhiUTk",
+          "renderModuleFilePath": "plasmic/mm_ai/PlasmicSidePanelItem.tsx",
+          "importSpec": {
+            "modulePath": "SidePanelItem.tsx"
+          },
+          "cssFilePath": "plasmic/mm_ai/PlasmicSidePanelItem.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "3BT2mMQqhm",
+          "name": "PageTile",
+          "type": "managed",
+          "projectId": "jvgKmcyqVhg6pkonUhiUTk",
+          "renderModuleFilePath": "plasmic/mm_ai/PlasmicPageTile.tsx",
+          "importSpec": {
+            "modulePath": "PageTile.tsx"
+          },
+          "cssFilePath": "plasmic/mm_ai/PlasmicPageTile.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
         }
       ],
       "icons": [
@@ -80,6 +119,71 @@
           "id": "kQKZ-hSYSGS",
           "name": "Line1Icon",
           "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Line1.tsx"
+        },
+        {
+          "id": "Ivpqf29ZLc",
+          "name": "VectorIcon",
+          "moduleFilePath": "plasmic/mm_ai/icons/PlasmicIcon__Vector.tsx"
+        },
+        {
+          "id": "MGg8hRWuqV",
+          "name": "Vector2Icon",
+          "moduleFilePath": "plasmic/mm_ai/icons/PlasmicIcon__Vector2.tsx"
+        },
+        {
+          "id": "O5FyEFhJp",
+          "name": "DashboardIcon",
+          "moduleFilePath": "plasmic/mm_ai/icons/PlasmicIcon__Dashboard.tsx"
+        },
+        {
+          "id": "kYzOXsfEk",
+          "name": "ContactIcon",
+          "moduleFilePath": "plasmic/mm_ai/icons/PlasmicIcon__Contact.tsx"
+        },
+        {
+          "id": "TI5y__4ek",
+          "name": "LabelIcon",
+          "moduleFilePath": "plasmic/mm_ai/icons/PlasmicIcon__Label.tsx"
+        },
+        {
+          "id": "N8AI2X3fv",
+          "name": "ConversationIcon",
+          "moduleFilePath": "plasmic/mm_ai/icons/PlasmicIcon__Conversation.tsx"
+        },
+        {
+          "id": "jiQ-RD-34",
+          "name": "CalendarIcon",
+          "moduleFilePath": "plasmic/mm_ai/icons/PlasmicIcon__Calendar.tsx"
+        },
+        {
+          "id": "k1wuqX4j8",
+          "name": "SettingsIcon",
+          "moduleFilePath": "plasmic/mm_ai/icons/PlasmicIcon__Settings.tsx"
+        },
+        {
+          "id": "CJsX2j6BP",
+          "name": "CampaignIcon",
+          "moduleFilePath": "plasmic/mm_ai/icons/PlasmicIcon__Campaign.tsx"
+        },
+        {
+          "id": "_gnBSmlZ9",
+          "name": "LogoutIcon",
+          "moduleFilePath": "plasmic/mm_ai/icons/PlasmicIcon__Logout.tsx"
+        },
+        {
+          "id": "pgSnHbK2y",
+          "name": "QrScanIcon",
+          "moduleFilePath": "plasmic/mm_ai/icons/PlasmicIcon__QrScan.tsx"
+        },
+        {
+          "id": "wYe1w_1YC",
+          "name": "ImportListIcon",
+          "moduleFilePath": "plasmic/mm_ai/icons/PlasmicIcon__ImportList.tsx"
+        },
+        {
+          "id": "PMFZX68-d",
+          "name": "AddUserIcon",
+          "moduleFilePath": "plasmic/mm_ai/icons/PlasmicIcon__AddUser.tsx"
         }
       ],
       "images": [
